@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/91364256/185788095-05d61b46-42e5-4974-95bf-f4b730debc7a.png)
 
-- 👋 Hi, I’m a commited coder,seeking experience in the field of design, optimization and developement. Adept and proficient at technological activites and working as a team 
+👋 Hi, I’m a commited coder,seeking experience in the field of design, optimization and developement. Adept and proficient at technological activites and working as a team 
 for sucessful establishment. Specialities in Data structures and algorithms. Ready for unexplored innovations and challenges.
 
 - 👀 I’m interested in App, Web design and development
