@@ -15,7 +15,7 @@ about={</br>
 about["Description"] = ...</br></br>for info in about:</br>&emsp;&emsp;print(info)</br></h6><br>
 
 ```diff
-+                                                        Hi, My name is Arun                                                      +
++                                                        Hi, My name is Arun                                                +
 
 @@      (\_/)                                                                                                              @@
 @@      ( •_•)                                                                                                             @@
