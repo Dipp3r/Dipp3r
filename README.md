@@ -34,11 +34,10 @@ about["Description"] = ...</br></br>for info in about:</br>&emsp;&emsp;print(inf
 
 <br>
 
-
 <img align="right" alt="coding" width=400 src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k7gm41x3n8mqe5ran53pjvktgurp1vgrir2t2eug&rid=giphy.gif&ct=g">
-<br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dipp3r&label=Profile%20views&color=0e75b6&style=flat" alt="dipp3r" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dipp3r&label=Profile%20views&color=0e75b6&style=flat" alt="dipp3r" /> </p> <br>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipp3r" alt="dipp3r" /></a> </p> -->
 
