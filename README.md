@@ -12,7 +12,7 @@ about={</br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;},<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;"contact" : "aruneesh4@gmail.com"<br>
 &emsp;&emsp;&emsp;&emsp;}<br><br>
-about["Description"] = ...</br></br>for info in about:</br>&emsp;&emsp;print(info)</br></h6><br>
+
 
 ```diff
 +                                                        Hi, My name is Arun                                                +
