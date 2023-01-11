@@ -13,16 +13,15 @@ about={</br>
 &emsp;&emsp;&emsp;&emsp;&emsp;"contact" : "aruneesh4@gmail.com"<br>
 &emsp;&emsp;&emsp;&emsp;}<br><br><br>
 
+```diff                                                                                             
 
-```diff
-+                                                        Hi, My name is Arun                                                +
-
-@@      (\_/)                                                                                                              @@
-@@      ( •_•)                                                                                                             @@
-@@      / > {    I’m a committed coder,seeking experience in the field of design, optimization and developement.           @@
-@@               Adept and proficient at technological activites and working as a team for sucessful establishment.        @@
-@@               Specialities in Data structures and algorithms. Currently pursuing B.Tech - Information Technology        @@
-@@               at SSN COLLEGE OF ENGINEERING. -----> Ready for unexplored innovations and challenges.      }             @@
+      (\_/)                                                                                                              
+      ( •_•)                                                                                                             
+      / > {    I’m a committed coder,seeking experience in the field of design, optimization and developement.           
+               Adept and proficient at technological activites and working as a team for sucessful establishment.        
+               Specialities in Data structures and algorithms. Currently pursuing B.Tech - Information Technology        
+               at SSN COLLEGE OF ENGINEERING. -----> Ready for unexplored innovations and challenges.      }             
+               
 ```
 
 
