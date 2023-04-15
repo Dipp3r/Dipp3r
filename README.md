@@ -13,6 +13,12 @@ about={</br>
 &emsp;&emsp;&emsp;&emsp;&emsp;"contact" : "aruneesh4@gmail.com"<br>
 &emsp;&emsp;&emsp;&emsp;}<br><br><br>
 
+![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)
+![LinkedId](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-b24435?style=for-the-badge&logo=gmail&logoColor=white)
+
 ```diff                                                                                             
 
       (\_/)                                                                                                              
