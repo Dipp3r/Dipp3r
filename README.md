@@ -17,10 +17,11 @@ about={</br>
 
       (\_/)                                                                                                              
       ( •_•)                                                                                                             
-      / > {    I’m a committed coder,seeking experience in the field of design, optimization and developement.           
-               Adept and proficient at technological activites and working as a team for sucessful establishment.        
-               Specialities in Data structures and algorithms. Currently pursuing B.Tech - Information Technology        
-               at SSN COLLEGE OF ENGINEERING. -----> Ready for unexplored innovations and challenges.      }             
+      / > {    I specialize in design and optimization for all stages of the development cycle for dynamic web projects. I am
+               adept and proficient at technological activities and working as part of a team for successful establishment. I
+               have specialties in data structures and algorithms, and I am well-versed in numerous programming languages,
+               including HTML5, Python, JavaScript, CSS, and MySQL. Currently pursuing B.Tech - Information Technology        
+               @ SSN COLLEGE OF ENGINEERING. -----> Ready for unexplored innovations and challenges.      }             
                
 ```
 
