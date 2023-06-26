@@ -19,6 +19,7 @@ about={</br>
 <a href="https://discord.gg/D¡pp3r#2556">![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="mailto:aruneesh4@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-b24435?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
+
 ```diff                                                                                             
 
       (\_/)                                                                                                              
