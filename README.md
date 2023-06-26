@@ -13,11 +13,11 @@ about={</br>
 &emsp;&emsp;&emsp;&emsp;&emsp;"contact" : "aruneesh4@gmail.com"<br>
 &emsp;&emsp;&emsp;&emsp;}<br><br><br>
 
-![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)
-![LinkedId](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-b24435?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://instagram.com/arun._.432">![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/aruneeswaran-k-b34a08265/">![LinkedId](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://wa.me/8056053854">![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://discord.gg/D¡pp3r#2556">![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="aruneesh4@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-b24435?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ```diff                                                                                             
 
@@ -69,6 +69,7 @@ about={</br>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipp3r&show_icons=true&locale=en&layout=compact" alt="dipp3r" /></p><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
