@@ -38,6 +38,7 @@ about={</br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dipp3r&label=Profile%20views&color=0e75b6&style=flat" alt="dipp3r" /> </p> <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipp3r&show_icons=true&locale=en&layout=compact" alt="dipp3r" />
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipp3r" alt="dipp3r" /></a> </p> -->
+<br/>
 
 - [x] Currently working on [ICOPE screening tool](nil)
 - [x]  Currently learning **React, Flask** 🌱
